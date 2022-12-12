@@ -1,0 +1,26 @@
+@import "~bootstrap-icons/font/bootstrap-icons.css";
+
+.footbox {
+  padding: 10px 10px;
+}
+.footbox img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+.footbox h1 {
+  font-size: 18px;
+  margin-top: 18px;
+  font-weight: bold;
+}
+.buybtn{
+
+color: #000;
+background-color: var(--primary-color);
+padding: 10px 10px;
+border-radius: 5px;
+font-size: 18px;
+cursor: pointer;
+text-decoration: none;
+}
